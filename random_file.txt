@@ -1,1 +1,2 @@
 scp -r avats@clabsql.clamv.jacobs-university.de:~/public_html /Users/amartyavats/Downloads/SQL/CLAMV/
+scp -r avats@clabsql.clamv.jacobs-university.de:~ /Users/amartyavats/Downloads/SQL/CLAMV/
