@@ -17,7 +17,7 @@
             <img id = "backdrop" src="img/logo.png" alt="360logo" width = "15%" height = "10%">
          </div>
         <div id = "Topbar">
-            <a href="home.php"><button id = "home_buttons" class = "buttons">Home</button></a>
+            <a href="home.php"><button id = "home_buttons" class = "buttons">Home</button>
             <button id = "account_info_button" class = "buttons">Account Info</button>
             <button id = "settings_buttons" class="buttons">Settings</button>
             </button>

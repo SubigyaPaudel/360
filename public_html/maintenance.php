@@ -1,5 +1,5 @@
 <?php
-    include('./header.php');
+    include('./header_signed_in.php');
 ?>
                 <h3>INSERT PAGES</h3>
                 <div>
