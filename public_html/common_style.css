@@ -91,7 +91,7 @@ body{
 
 a {
     text-align:center;
-    color: white;
+    color: black;
 }
 
 a:hover {
@@ -200,7 +200,7 @@ a:hover {
     max-width: 600px;
     min-width: 320px;
     width: 100%;
-    border: 2px solid white;
+    border: 2px solid black;
     border-spacing: 50px;
     border-collapse: collapse;
     top : 20%;

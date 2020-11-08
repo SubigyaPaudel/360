@@ -1,7 +1,22 @@
-<?php
-    include('./header.php');
-?>
- <form action="software_suites.php" method="POST">
+<html lang = 'en'>
+    <head>
+        <title>
+            360 Subscribee Magazine
+        </title>
+        <link rel="stylesheet" href="common_style.css">
+    </head>
+    <body>
+        <div id = "Logo">
+            <img id = "backdrop" src="img/logo.png" alt="360logo" width = "15%" height = "10%">
+        </div>
+        <div id = "Topbar">
+            <a href="maintenance.php"><button id ="Maintenance" class = "buttons">Maintenance</button></a>
+        </div>
+        <div id="Miscellanous">
+            <p>en.yeeply.com.</p>
+        </div>
+        <div id = "Miscellanous_text">
+            <form action="magazine.php" method="POST">
                 <div class="container">
                     <div class="row">
                         <div class="col-sm-3">
@@ -44,11 +59,11 @@
                                                 $host_web = parse_url($website, PHP_URL_HOST);
 
                                                 $query1 ="INSERT INTO general_account(email,website,service_description) VALUES ('".mysqli_real_escape_string($conn,$email)."','$website', 'Provides software suite services');";
-                                                $query ="INSERT INTO software_suite(email,website,expire_date) VALUES ('$email','$host_web', '$expire_date');";
+                                                $query ="INSERT INTO software_suite(email,website,expire_date) VALUES ('".mysqli_real_escape_string($conn,$email)."','$website', '$expire_date');";
                                                 if (mysqli_query($conn, $query) && mysqli_query($conn, $query1)){
-                                                    header("Location: ./success.php");
+                                                    echo "New record created successfully";
                                                 } else {
-                                                    header("Location: ./failure.php");
+                                                    echo "Error: " . $sql . "<br>" . mysqli_error($conn);
                                                 }
                                             }
                                     }
@@ -58,6 +73,15 @@
                     </div>
                 </div>
             </form>
-<?php
-    include('./footer.php');
-?>
+        </div>
+        <div id="endbar_fixed">
+            <p>
+                This website is student lab work and does not necessarily reflect Jacobs University Bremen opinions. Jacobs University Bremen does not endorse this site, nor is it checked by Jacobs University
+                Bremen regularly, nor is it part of the official Jacobs University Bremen web presence.
+                For each external link existing on this website, we initially have checked that the target page
+                does not contain contents which is illegal wrt. German jurisdiction. However, as we have no influence on such contents, this may change without our notice. Therefore we deny any responsibility for the websites referenced through our external links from here.
+                No information conflicting with GDPR is stored in the server.
+            </p>
+        </div>
+    </body>
+</html>

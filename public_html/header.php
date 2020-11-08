@@ -1,38 +1,18 @@
 <html lang = 'en'>
     <head>
         <title>
-            360 Subscribee
+            360 Subscribee Login
         </title>
         <link rel="stylesheet" href="common_style.css">
     </head>
     <body>
         <div id = "Logo">
             <img id = "backdrop" src="img/logo.png" alt="360logo" width = "15%" height = "10%">
-         </div>
+        </div>
         <div id = "Topbar">
-            <button id = "home_buttons" class = "buttons">Home</button>
-            <button id = "account_info_button" class = "buttons">Account Info</button>
-            <button id = "settings_buttons" class="buttons">Settings</button>
-            </button>
-            <div id = "useroptions">
-                <select id = "useroptions_dropdown">
-                    <option value = "1">Switch Accounts</option>
-                    <option value = "2"> Logout</option>
-                </select>
-            </div>   
+            <a href="maintenance.php"><button id ="Maintenance" class = "buttons">Maintenance</button></a>
         </div>
-        <div id = "sidepanel">
-            <select id = "account_types">
-                <option value="General Accounts">General Accounts</option>
-                <option value="video_streaming">Video Streaming</option>
-                <option value="music_streaming">Music Streaming</option>
-                <option value="VPN">VPN</option>
-                <option value="Software Suite">Software Suites</option>
-                <option value="Magazine">Magazines</option>
-                <option value="Miscellaneous">Miscellaneous</option>
-            </select>
-            <button id= "add_account_button" class = "buttons">Add account</button>
-            <button id = "explore_buttons" class = "buttons">Explore</button>
-            
+        <div id="Miscellanous">
+            <p>en.yeeply.com.</p>
         </div>
-            <div id="Content_Area">
+        <div id = "Miscellanous_text">
