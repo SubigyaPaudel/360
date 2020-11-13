@@ -1,0 +1,179 @@
+2020-11-13 21:48:49
+[Fri Nov 13 21:25:42.606015 2020] [php7:notice] [pid 27630] [client 10.81.139.23:49912] PHP Notice:  Undefined index: link_relevant_page in /people/home/avats/public_html/view_account_details.php on line 42, referer: http://clabsql.clamv.jacobs-university.de/~avats/view_account_details.php
+
+[Wed Nov 11 01:10:37.299292 2020] [php7:notice] [pid 20161] [client 10.81.137.207:44942] PHP Notice:  Undefined index: deletion_link in /people/home/avats/public_html/view_account_details.php on line 33, referer: http://clabsql.clamv.jacobs-university.de/~avats/view_account_details.php
+
+[Wed Nov 11 01:09:33.580002 2020] [php7:notice] [pid 25643] [client 10.81.137.207:44936] PHP Notice:  Undefined index: updates_and_messages in /people/home/avats/public_html/view_account_details.php on line 32, referer: http://clabsql.clamv.jacobs-university.de/~avats/view_account_details.php
+
+[Fri Nov 13 21:15:41.894773 2020] [php7:notice] [pid 9156] [client 10.81.161.56:56125] PHP Notice:  Undefined index: link_relevant_page in /people/home/avats/public_html/view_account_details.php on line 42, referer: http://clabsql.clamv.jacobs-university.de/~avats/view_account_details.php
+
+[Fri Nov 13 21:24:01.396727 2020] [php7:notice] [pid 10867] [client 10.81.139.23:49901] PHP Notice:  Undefined index: terms_cond_last_updates in /people/home/avats/public_html/view_account_details.php on line 41, referer: http://clabsql.clamv.jacobs-university.de/~avats/view_account_details.php
+
+[Fri Nov 13 21:21:38.111034 2020] [php7:notice] [pid 3570] [client 10.81.139.23:49872] PHP Notice:  Undefined index: link_relevant_page in /people/home/avats/public_html/view_account_details.php on line 42, referer: http://clabsql.clamv.jacobs-university.de/~avats/view_account_details.php
+
+[Fri Nov 13 21:13:32.022300 2020] [php7:notice] [pid 25298] [client 10.81.161.56:56114] PHP Notice:  Undefined index: link_relevant_page in /people/home/avats/public_html/view_account_details.php on line 42, referer: http://clabsql.clamv.jacobs-university.de/~avats/view_account_details.php
+
+[Fri Nov 13 21:21:38.111028 2020] [php7:notice] [pid 3570] [client 10.81.139.23:49872] PHP Notice:  Undefined index: terms_cond_last_updates in /people/home/avats/public_html/view_account_details.php on line 41, referer: http://clabsql.clamv.jacobs-university.de/~avats/view_account_details.php
+
+[Fri Nov 13 21:20:32.007570 2020] [php7:notice] [pid 8206] [client 10.81.139.23:49871] PHP Notice:  Undefined index: updates_and_messages in /people/home/avats/public_html/view_account_details.php on line 32, referer: http://clabsql.clamv.jacobs-university.de/~avats/view_account_details.php
+
+[Fri Nov 13 21:24:29.174035 2020] [php7:notice] [pid 21732] [client 10.81.139.23:49902] PHP Notice:  Undefined index: updates_and_messages in /people/home/avats/public_html/view_account_details.php on line 32, referer: http://clabsql.clamv.jacobs-university.de/~avats/view_account_details.php
+
+[Wed Nov 11 09:22:57.109305 2020] [php7:notice] [pid 25645] [client 10.81.159.225:51359] PHP Notice:  Undefined index: website in /people/home/avats/public_html/related_account.php on line 9, referer: http://clabsql.clamv.jacobs-university.de/~avats/related_account.php
+
+[Fri Nov 13 21:24:29.174076 2020] [php7:notice] [pid 21732] [client 10.81.139.23:49902] PHP Notice:  Undefined index: terms_cond_last_updates in /people/home/avats/public_html/view_account_details.php on line 41, referer: http://clabsql.clamv.jacobs-university.de/~avats/view_account_details.php
+
+[Fri Nov 13 21:15:02.112100 2020] [php7:notice] [pid 8206] [client 10.81.161.56:56124] PHP Notice:  Undefined index: terms_cond_last_updates in /people/home/avats/public_html/view_account_details.php on line 41, referer: http://clabsql.clamv.jacobs-university.de/~avats/view_account_details.php
+
+[Fri Nov 13 21:13:32.022284 2020] [php7:notice] [pid 25298] [client 10.81.161.56:56114] PHP Notice:  Undefined index: deletion_link in /people/home/avats/public_html/view_account_details.php on line 33, referer: http://clabsql.clamv.jacobs-university.de/~avats/view_account_details.php
+
+[Fri Nov 13 21:25:44.096216 2020] [php7:notice] [pid 27630] [client 10.81.139.23:49912] PHP Notice:  Undefined index: link_relevant_page in /people/home/avats/public_html/view_account_details.php on line 42, referer: http://clabsql.clamv.jacobs-university.de/~avats/view_account_details.php
+
+[Fri Nov 13 21:25:44.096172 2020] [php7:notice] [pid 27630] [client 10.81.139.23:49912] PHP Notice:  Undefined index: updates_and_messages in /people/home/avats/public_html/view_account_details.php on line 32, referer: http://clabsql.clamv.jacobs-university.de/~avats/view_account_details.php
+
+[Fri Nov 13 21:24:01.396734 2020] [php7:notice] [pid 10867] [client 10.81.139.23:49901] PHP Notice:  Undefined index: link_relevant_page in /people/home/avats/public_html/view_account_details.php on line 42, referer: http://clabsql.clamv.jacobs-university.de/~avats/view_account_details.php
+
+[Wed Nov 11 01:09:33.580050 2020] [php7:notice] [pid 25643] [client 10.81.137.207:44936] PHP Notice:  Undefined index: terms_cond_last_updates in /people/home/avats/public_html/view_account_details.php on line 41, referer: http://clabsql.clamv.jacobs-university.de/~avats/view_account_details.php
+
+[Wed Nov 11 09:22:15.564401 2020] [php7:error] [pid 13894] [client 10.81.159.225:51354] script '/people/home/avats/public_html/success.php' not found or unable to stat, referer: http://clabsql.clamv.jacobs-university.de/~avats/related_account.php
+
+[Fri Nov 13 21:24:02.982297 2020] [php7:notice] [pid 10867] [client 10.81.139.23:49901] PHP Notice:  Undefined index: deletion_link in /people/home/avats/public_html/view_account_details.php on line 33, referer: http://clabsql.clamv.jacobs-university.de/~avats/view_account_details.php
+
+[Mon Nov 09 15:32:15.374357 2020] [php7:error] [pid 28329] [client 10.81.139.23:50202] script '/people/home/avats/public_html/admin_login.php' not found or unable to stat, referer: http://clabsql.clamv.jacobs-university.de/~avats/
+
+[Fri Nov 13 21:25:44.096201 2020] [php7:notice] [pid 27630] [client 10.81.139.23:49912] PHP Notice:  Undefined index: deletion_link in /people/home/avats/public_html/view_account_details.php on line 33, referer: http://clabsql.clamv.jacobs-university.de/~avats/view_account_details.php
+
+[Fri Nov 13 21:20:32.007607 2020] [php7:notice] [pid 8206] [client 10.81.139.23:49871] PHP Notice:  Undefined index: terms_cond_last_updates in /people/home/avats/public_html/view_account_details.php on line 41, referer: http://clabsql.clamv.jacobs-university.de/~avats/view_account_details.php
+
+[Fri Nov 13 21:21:38.110986 2020] [php7:notice] [pid 3570] [client 10.81.139.23:49872] PHP Notice:  Undefined index: updates_and_messages in /people/home/avats/public_html/view_account_details.php on line 32, referer: http://clabsql.clamv.jacobs-university.de/~avats/view_account_details.php
+
+[Mon Nov 09 15:31:58.972080 2020] [php7:error] [pid 28329] [client 10.81.139.23:50202] script '/people/home/avats/public_html/search_pages.php' not found or unable to stat, referer: http://clabsql.clamv.jacobs-university.de/~avats/
+
+[Fri Nov 13 21:16:05.798101 2020] [php7:notice] [pid 3570] [client 10.81.161.56:56129] PHP Notice:  Undefined index: updates_and_messages in /people/home/avats/public_html/view_account_details.php on line 32, referer: http://clabsql.clamv.jacobs-university.de/~avats/view_account_details.php
+
+[Mon Nov 09 15:31:55.309139 2020] [php7:error] [pid 28329] [client 10.81.139.23:50202] script '/people/home/avats/public_html/admin_login.php' not found or unable to stat, referer: http://clabsql.clamv.jacobs-university.de/~avats/
+
+[Fri Nov 13 21:16:05.798156 2020] [php7:notice] [pid 3570] [client 10.81.161.56:56129] PHP Notice:  Undefined index: terms_cond_last_updates in /people/home/avats/public_html/view_account_details.php on line 41, referer: http://clabsql.clamv.jacobs-university.de/~avats/view_account_details.php
+
+[Fri Nov 13 21:13:11.494750 2020] [php7:notice] [pid 25298] [client 10.81.161.56:56114] PHP Notice:  Undefined index: updates_and_messages in /people/home/avats/public_html/view_account_details.php on line 32, referer: http://clabsql.clamv.jacobs-university.de/~avats/view_account_details.php
+
+[Fri Nov 13 21:24:29.174083 2020] [php7:notice] [pid 21732] [client 10.81.139.23:49902] PHP Notice:  Undefined index: link_relevant_page in /people/home/avats/public_html/view_account_details.php on line 42, referer: http://clabsql.clamv.jacobs-university.de/~avats/view_account_details.php
+
+[Fri Nov 13 21:15:41.894720 2020] [php7:notice] [pid 9156] [client 10.81.161.56:56125] PHP Notice:  Undefined index: updates_and_messages in /people/home/avats/public_html/view_account_details.php on line 32, referer: http://clabsql.clamv.jacobs-university.de/~avats/view_account_details.php
+
+[Fri Nov 13 21:15:02.112091 2020] [php7:notice] [pid 8206] [client 10.81.161.56:56124] PHP Notice:  Undefined index: deletion_link in /people/home/avats/public_html/view_account_details.php on line 33, referer: http://clabsql.clamv.jacobs-university.de/~avats/view_account_details.php
+
+[Fri Nov 13 21:13:45.175018 2020] [php7:notice] [pid 25298] [client 10.81.161.56:56114] PHP Notice:  Undefined index: deletion_link in /people/home/avats/public_html/view_account_details.php on line 33, referer: http://clabsql.clamv.jacobs-university.de/~avats/view_account_details.php
+
+[Fri Nov 13 21:21:13.474002 2020] [php7:notice] [pid 3570] [client 10.81.139.23:49872] PHP Notice:  Undefined index: deletion_link in /people/home/avats/public_html/view_account_details.php on line 33, referer: http://clabsql.clamv.jacobs-university.de/~avats/view_account_details.php
+
+[Fri Nov 13 21:21:13.474018 2020] [php7:notice] [pid 3570] [client 10.81.139.23:49872] PHP Notice:  Undefined index: link_relevant_page in /people/home/avats/public_html/view_account_details.php on line 42, referer: http://clabsql.clamv.jacobs-university.de/~avats/view_account_details.php
+
+[Fri Nov 13 21:27:04.522374 2020] [php7:notice] [pid 25299] [client 10.81.139.23:49916] PHP Notice:  Undefined index: deletion_link in /people/home/avats/public_html/view_account_details.php on line 33, referer: http://clabsql.clamv.jacobs-university.de/~avats/view_account_details.php
+
+[Fri Nov 13 21:15:02.112051 2020] [php7:notice] [pid 8206] [client 10.81.161.56:56124] PHP Notice:  Undefined index: updates_and_messages in /people/home/avats/public_html/view_account_details.php on line 32, referer: http://clabsql.clamv.jacobs-university.de/~avats/view_account_details.php
+
+[Fri Nov 13 21:27:04.522331 2020] [php7:notice] [pid 25299] [client 10.81.139.23:49916] PHP Notice:  Undefined index: updates_and_messages in /people/home/avats/public_html/view_account_details.php on line 32, referer: http://clabsql.clamv.jacobs-university.de/~avats/view_account_details.php
+
+[Fri Nov 13 21:24:29.174067 2020] [php7:notice] [pid 21732] [client 10.81.139.23:49902] PHP Notice:  Undefined index: deletion_link in /people/home/avats/public_html/view_account_details.php on line 33, referer: http://clabsql.clamv.jacobs-university.de/~avats/view_account_details.php
+
+[Fri Nov 13 21:20:17.365382 2020] [php7:notice] [pid 8206] [client 10.81.139.23:49871] PHP Notice:  Undefined index: link_relevant_page in /people/home/avats/public_html/view_account_details.php on line 42, referer: http://clabsql.clamv.jacobs-university.de/~avats/view_account_details.php
+
+[Wed Nov 11 01:09:33.580058 2020] [php7:notice] [pid 25643] [client 10.81.137.207:44936] PHP Notice:  Undefined index: link_relevant_page in /people/home/avats/public_html/view_account_details.php on line 42, referer: http://clabsql.clamv.jacobs-university.de/~avats/view_account_details.php
+
+[Fri Nov 13 21:13:11.494813 2020] [php7:notice] [pid 25298] [client 10.81.161.56:56114] PHP Notice:  Undefined index: terms_cond_last_updates in /people/home/avats/public_html/view_account_details.php on line 41, referer: http://clabsql.clamv.jacobs-university.de/~avats/view_account_details.php
+
+[Fri Nov 13 21:27:04.522391 2020] [php7:notice] [pid 25299] [client 10.81.139.23:49916] PHP Notice:  Undefined index: link_relevant_page in /people/home/avats/public_html/view_account_details.php on line 42, referer: http://clabsql.clamv.jacobs-university.de/~avats/view_account_details.php
+
+[Fri Nov 13 21:24:02.982314 2020] [php7:notice] [pid 10867] [client 10.81.139.23:49901] PHP Notice:  Undefined index: link_relevant_page in /people/home/avats/public_html/view_account_details.php on line 42, referer: http://clabsql.clamv.jacobs-university.de/~avats/view_account_details.php
+
+[Fri Nov 13 21:13:32.022293 2020] [php7:notice] [pid 25298] [client 10.81.161.56:56114] PHP Notice:  Undefined index: terms_cond_last_updates in /people/home/avats/public_html/view_account_details.php on line 41, referer: http://clabsql.clamv.jacobs-university.de/~avats/view_account_details.php
+
+[Fri Nov 13 21:24:01.396718 2020] [php7:notice] [pid 10867] [client 10.81.139.23:49901] PHP Notice:  Undefined index: deletion_link in /people/home/avats/public_html/view_account_details.php on line 33, referer: http://clabsql.clamv.jacobs-university.de/~avats/view_account_details.php
+
+[Wed Nov 11 01:10:37.299252 2020] [php7:notice] [pid 20161] [client 10.81.137.207:44942] PHP Notice:  Undefined index: updates_and_messages in /people/home/avats/public_html/view_account_details.php on line 32, referer: http://clabsql.clamv.jacobs-university.de/~avats/view_account_details.php
+
+[Fri Nov 13 21:16:05.798163 2020] [php7:notice] [pid 3570] [client 10.81.161.56:56129] PHP Notice:  Undefined index: link_relevant_page in /people/home/avats/public_html/view_account_details.php on line 42, referer: http://clabsql.clamv.jacobs-university.de/~avats/view_account_details.php
+
+[Fri Nov 13 21:15:41.894766 2020] [php7:notice] [pid 9156] [client 10.81.161.56:56125] PHP Notice:  Undefined index: terms_cond_last_updates in /people/home/avats/public_html/view_account_details.php on line 41, referer: http://clabsql.clamv.jacobs-university.de/~avats/view_account_details.php
+
+[Fri Nov 13 21:20:17.365375 2020] [php7:notice] [pid 8206] [client 10.81.139.23:49871] PHP Notice:  Undefined index: terms_cond_last_updates in /people/home/avats/public_html/view_account_details.php on line 41, referer: http://clabsql.clamv.jacobs-university.de/~avats/view_account_details.php
+
+[Wed Nov 11 09:21:11.132807 2020] [php7:notice] [pid 10165] [client 10.81.159.225:51350] PHP Notice:  Undefined index: $host_web."/latest_release" in /people/home/avats/public_html/video_streaming.php on line 56, referer: http://clabsql.clamv.jacobs-university.de/~avats/video_streaming.php
+
+[Fri Nov 13 21:25:42.605982 2020] [php7:notice] [pid 27630] [client 10.81.139.23:49912] PHP Notice:  Undefined index: deletion_link in /people/home/avats/public_html/view_account_details.php on line 33, referer: http://clabsql.clamv.jacobs-university.de/~avats/view_account_details.php
+
+[Fri Nov 13 21:13:11.494820 2020] [php7:notice] [pid 25298] [client 10.81.161.56:56114] PHP Notice:  Undefined index: link_relevant_page in /people/home/avats/public_html/view_account_details.php on line 42, referer: http://clabsql.clamv.jacobs-university.de/~avats/view_account_details.php
+
+[Wed Nov 11 09:24:49.745780 2020] [php7:error] [pid 25643] [client 10.81.159.225:51390] script '/people/home/avats/public_html/success.php' not found or unable to stat, referer: http://clabsql.clamv.jacobs-university.de/~avats/related_account.php
+
+[Fri Nov 13 21:20:32.007614 2020] [php7:notice] [pid 8206] [client 10.81.139.23:49871] PHP Notice:  Undefined index: link_relevant_page in /people/home/avats/public_html/view_account_details.php on line 42, referer: http://clabsql.clamv.jacobs-university.de/~avats/view_account_details.php
+
+[Mon Nov 09 17:22:21.843968 2020] [php7:error] [pid 1183] [client 10.222.130.45:50510] script '/people/home/avats/public_html/info_for_sub_type.php' not found or unable to stat, referer: http://clabsql.clamv.jacobs-university.de/~avats/search_pages.php
+
+[Wed Nov 11 09:21:11.132719 2020] [php7:notice] [pid 10165] [client 10.81.159.225:51350] PHP Notice:  Undefined index: $host_web."/upcoming" in /people/home/avats/public_html/video_streaming.php on line 55, referer: http://clabsql.clamv.jacobs-university.de/~avats/video_streaming.php
+
+[Fri Nov 13 21:25:42.606007 2020] [php7:notice] [pid 27630] [client 10.81.139.23:49912] PHP Notice:  Undefined index: terms_cond_last_updates in /people/home/avats/public_html/view_account_details.php on line 41, referer: http://clabsql.clamv.jacobs-university.de/~avats/view_account_details.php
+
+[Fri Nov 13 21:20:17.365345 2020] [php7:notice] [pid 8206] [client 10.81.139.23:49871] PHP Notice:  Undefined index: deletion_link in /people/home/avats/public_html/view_account_details.php on line 33, referer: http://clabsql.clamv.jacobs-university.de/~avats/view_account_details.php
+
+[Wed Nov 11 09:23:02.754058 2020] [php7:notice] [pid 25645] [client 10.81.159.225:51359] PHP Notice:  Undefined index: website in /people/home/avats/public_html/related_account.php on line 9, referer: http://clabsql.clamv.jacobs-university.de/~avats/related_account.php
+
+[Fri Nov 13 21:13:45.175051 2020] [php7:notice] [pid 25298] [client 10.81.161.56:56114] PHP Notice:  Undefined index: link_relevant_page in /people/home/avats/public_html/view_account_details.php on line 42, referer: http://clabsql.clamv.jacobs-university.de/~avats/view_account_details.php
+
+[Wed Nov 11 09:25:54.677974 2020] [php7:error] [pid 20161] [client 10.81.159.225:51417] script '/people/home/avats/public_html/success.php' not found or unable to stat, referer: http://clabsql.clamv.jacobs-university.de/~avats/related_account.php
+
+[Wed Nov 11 09:22:19.391199 2020] [php7:error] [pid 13894] [client 10.81.159.225:51354] script '/people/home/avats/public_html/success.php' not found or unable to stat, referer: http://clabsql.clamv.jacobs-university.de/~avats/related_account.php
+
+[Mon Nov 09 17:22:27.798711 2020] [php7:error] [pid 1183] [client 10.222.130.45:50510] script '/people/home/avats/public_html/info_for_sub_type.php' not found or unable to stat, referer: http://clabsql.clamv.jacobs-university.de/~avats/search_pages.php
+
+[Fri Nov 13 21:13:45.174981 2020] [php7:notice] [pid 25298] [client 10.81.161.56:56114] PHP Notice:  Undefined index: updates_and_messages in /people/home/avats/public_html/view_account_details.php on line 32, referer: http://clabsql.clamv.jacobs-university.de/~avats/view_account_details.php
+
+[Fri Nov 13 21:16:05.798142 2020] [php7:notice] [pid 3570] [client 10.81.161.56:56129] PHP Notice:  Undefined index: deletion_link in /people/home/avats/public_html/view_account_details.php on line 33, referer: http://clabsql.clamv.jacobs-university.de/~avats/view_account_details.php
+
+[Wed Nov 11 01:09:33.580042 2020] [php7:notice] [pid 25643] [client 10.81.137.207:44936] PHP Notice:  Undefined index: deletion_link in /people/home/avats/public_html/view_account_details.php on line 33, referer: http://clabsql.clamv.jacobs-university.de/~avats/view_account_details.php
+
+[Wed Nov 11 01:10:37.299308 2020] [php7:notice] [pid 20161] [client 10.81.137.207:44942] PHP Notice:  Undefined index: link_relevant_page in /people/home/avats/public_html/view_account_details.php on line 42, referer: http://clabsql.clamv.jacobs-university.de/~avats/view_account_details.php
+
+[Fri Nov 13 21:02:54.739346 2020] [php7:notice] [pid 3570] [client 10.81.139.23:49796] PHP Notice:  Undefined variable: results in /people/home/avats/public_html/registration.php on line 54, referer: http://clabsql.clamv.jacobs-university.de/~avats/registration.php
+
+[Fri Nov 13 21:24:02.982307 2020] [php7:notice] [pid 10867] [client 10.81.139.23:49901] PHP Notice:  Undefined index: terms_cond_last_updates in /people/home/avats/public_html/view_account_details.php on line 41, referer: http://clabsql.clamv.jacobs-university.de/~avats/view_account_details.php
+
+[Fri Nov 13 21:20:32.007599 2020] [php7:notice] [pid 8206] [client 10.81.139.23:49871] PHP Notice:  Undefined index: deletion_link in /people/home/avats/public_html/view_account_details.php on line 33, referer: http://clabsql.clamv.jacobs-university.de/~avats/view_account_details.php
+
+[Fri Nov 13 21:24:01.396654 2020] [php7:notice] [pid 10867] [client 10.81.139.23:49901] PHP Notice:  Undefined index: updates_and_messages in /people/home/avats/public_html/view_account_details.php on line 32, referer: http://clabsql.clamv.jacobs-university.de/~avats/view_account_details.php
+
+[Fri Nov 13 21:13:45.175026 2020] [php7:notice] [pid 25298] [client 10.81.161.56:56114] PHP Notice:  Undefined index: terms_cond_last_updates in /people/home/avats/public_html/view_account_details.php on line 41, referer: http://clabsql.clamv.jacobs-university.de/~avats/view_account_details.php
+
+[Fri Nov 13 21:21:13.473961 2020] [php7:notice] [pid 3570] [client 10.81.139.23:49872] PHP Notice:  Undefined index: updates_and_messages in /people/home/avats/public_html/view_account_details.php on line 32, referer: http://clabsql.clamv.jacobs-university.de/~avats/view_account_details.php
+
+[Wed Nov 11 09:23:02.767163 2020] [php7:error] [pid 25645] [client 10.81.159.225:51359] script '/people/home/avats/public_html/success.php' not found or unable to stat, referer: http://clabsql.clamv.jacobs-university.de/~avats/related_account.php
+
+[Fri Nov 13 21:27:04.522384 2020] [php7:notice] [pid 25299] [client 10.81.139.23:49916] PHP Notice:  Undefined index: terms_cond_last_updates in /people/home/avats/public_html/view_account_details.php on line 41, referer: http://clabsql.clamv.jacobs-university.de/~avats/view_account_details.php
+
+[Fri Nov 13 21:13:11.494803 2020] [php7:notice] [pid 25298] [client 10.81.161.56:56114] PHP Notice:  Undefined index: deletion_link in /people/home/avats/public_html/view_account_details.php on line 33, referer: http://clabsql.clamv.jacobs-university.de/~avats/view_account_details.php
+
+[Fri Nov 13 21:24:02.982253 2020] [php7:notice] [pid 10867] [client 10.81.139.23:49901] PHP Notice:  Undefined index: updates_and_messages in /people/home/avats/public_html/view_account_details.php on line 32, referer: http://clabsql.clamv.jacobs-university.de/~avats/view_account_details.php
+
+[Fri Nov 13 21:15:02.112107 2020] [php7:notice] [pid 8206] [client 10.81.161.56:56124] PHP Notice:  Undefined index: link_relevant_page in /people/home/avats/public_html/view_account_details.php on line 42, referer: http://clabsql.clamv.jacobs-university.de/~avats/view_account_details.php
+
+[Fri Nov 13 21:21:38.111019 2020] [php7:notice] [pid 3570] [client 10.81.139.23:49872] PHP Notice:  Undefined index: deletion_link in /people/home/avats/public_html/view_account_details.php on line 33, referer: http://clabsql.clamv.jacobs-university.de/~avats/view_account_details.php
+
+[Wed Nov 11 01:10:37.299301 2020] [php7:notice] [pid 20161] [client 10.81.137.207:44942] PHP Notice:  Undefined index: terms_cond_last_updates in /people/home/avats/public_html/view_account_details.php on line 41, referer: http://clabsql.clamv.jacobs-university.de/~avats/view_account_details.php
+
+[Fri Nov 13 21:25:42.605943 2020] [php7:notice] [pid 27630] [client 10.81.139.23:49912] PHP Notice:  Undefined index: updates_and_messages in /people/home/avats/public_html/view_account_details.php on line 32, referer: http://clabsql.clamv.jacobs-university.de/~avats/view_account_details.php
+
+[Fri Nov 13 21:21:13.474011 2020] [php7:notice] [pid 3570] [client 10.81.139.23:49872] PHP Notice:  Undefined index: terms_cond_last_updates in /people/home/avats/public_html/view_account_details.php on line 41, referer: http://clabsql.clamv.jacobs-university.de/~avats/view_account_details.php
+
+[Wed Nov 11 09:22:57.139646 2020] [php7:error] [pid 25645] [client 10.81.159.225:51359] script '/people/home/avats/public_html/success.php' not found or unable to stat, referer: http://clabsql.clamv.jacobs-university.de/~avats/related_account.php
+
+[Fri Nov 13 21:25:44.096209 2020] [php7:notice] [pid 27630] [client 10.81.139.23:49912] PHP Notice:  Undefined index: terms_cond_last_updates in /people/home/avats/public_html/view_account_details.php on line 41, referer: http://clabsql.clamv.jacobs-university.de/~avats/view_account_details.php
+
+[Fri Nov 13 21:15:41.894758 2020] [php7:notice] [pid 9156] [client 10.81.161.56:56125] PHP Notice:  Undefined index: deletion_link in /people/home/avats/public_html/view_account_details.php on line 33, referer: http://clabsql.clamv.jacobs-university.de/~avats/view_account_details.php
+
+[Fri Nov 13 21:13:32.022229 2020] [php7:notice] [pid 25298] [client 10.81.161.56:56114] PHP Notice:  Undefined index: updates_and_messages in /people/home/avats/public_html/view_account_details.php on line 32, referer: http://clabsql.clamv.jacobs-university.de/~avats/view_account_details.php
+
+[Wed Nov 11 09:22:10.359708 2020] [php7:error] [pid 13894] [client 10.81.159.225:51354] script '/people/home/avats/public_html/success.php' not found or unable to stat, referer: http://clabsql.clamv.jacobs-university.de/~avats/related_account.php
+
+[Fri Nov 13 21:20:17.365287 2020] [php7:notice] [pid 8206] [client 10.81.139.23:49871] PHP Notice:  Undefined index: updates_and_messages in /people/home/avats/public_html/view_account_details.php on line 32, referer: http://clabsql.clamv.jacobs-university.de/~avats/view_account_details.php
+
