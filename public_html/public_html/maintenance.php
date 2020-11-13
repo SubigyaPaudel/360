@@ -1,5 +1,6 @@
   
 <?php
+    include("./admin_auth.php");
     include('./header.php');
 ?>
                 <h3>INSERT PAGES</h3>

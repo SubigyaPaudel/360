@@ -3,7 +3,7 @@
     height: 5%;
     width: 15%;
     top: 0.5%;
-    left: 0.5;
+    left: -7.5%
 }
 
 #Logo > img {
@@ -91,7 +91,7 @@ body{
 
 a {
     text-align:center;
-    color: black;
+    color: ivory;
 }
 
 a:hover {
@@ -204,4 +204,35 @@ a:hover {
     border-spacing: 50px;
     border-collapse: collapse;
     top : 20%;
+}
+
+.cushioned th{
+    padding: 5px;
+    margin: 7px;
+}
+
+.cushioned td{
+    padding: 5px;
+    margin: 7px;
+}
+
+.admin_buttons{
+    position: absolute;
+    left: 75%;
+    top: 50%;
+    background-color: ivory;
+    color: red;
+}
+
+.admin_buttons:hover{
+    position: absolute;
+    left: 75%;
+    top: 50%;
+    background-color: red;
+    color: ivory;
+}
+
+#topbuttons{
+    position: absolute;
+    top: 50%;
 }

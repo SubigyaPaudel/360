@@ -1,4 +1,5 @@
-<?php include('./header.php');?>
+<?php include('./header.php');
+      include("./admin_auth.php");?>
     <h4>Page to link account from subs tables to general account</h4>
     <?php
         include('config.php');

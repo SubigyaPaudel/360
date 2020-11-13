@@ -1,5 +1,5 @@
 <?php
     include('./header.php');
-    echo '<h3>"New record created successfully"</h3>';
+    echo "<h1>Error: " . $_GET['status'] . "</h1>";
     include('./footer.php')
 ?>
