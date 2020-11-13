@@ -1,0 +1,356 @@
+10.81.137.207 - - [11/Nov/2020:01:08:11 +0100] "GET /~avats/maintenance.php HTTP/1.1" 200 2395 "http://clabsql.clamv.jacobs-university.de/~avats/search_pages.php" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36"
+
+10.81.159.225 - - [11/Nov/2020:09:27:08 +0100] "GET /~avats/logout.php HTTP/1.1" 302 - "http://clabsql.clamv.jacobs-university.de/~avats/maintenance.php" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15"
+
+10.222.130.225 - - [10/Nov/2020:19:27:04 +0100] "GET /~avats/maintenance.php HTTP/1.1" 302 2425 "http://clabsql.clamv.jacobs-university.de/~avats/admin_login.php?status=sign_in_required" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36"
+
+[Wed Nov 11 01:10:37.299292 2020] [php7:notice] [pid 20161] [client 10.81.137.207:44942] PHP Notice:  Undefined index: deletion_link in /people/home/avats/public_html/view_account_details.php on line 33, referer: http://clabsql.clamv.jacobs-university.de/~avats/view_account_details.php
+
+10.81.159.225 - - [13/Nov/2020:14:12:45 +0100] "GET /~avats/maintenance.php HTTP/1.1" 302 2425 "http://clabsql.clamv.jacobs-university.de/~avats/index.php" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Safari/605.1.15"
+
+10.81.159.225 - - [12/Nov/2020:22:15:36 +0100] "GET /~avats/show_general_accounts.php HTTP/1.1" 200 2117 "http://clabsql.clamv.jacobs-university.de/~avats/view_account_details.php" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15"
+
+10.222.130.225 - - [10/Nov/2020:19:26:23 +0100] "GET /~avats/layout_logged_in.html HTTP/1.1" 404 1006 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36"
+
+10.81.137.207 - - [11/Nov/2020:01:06:24 +0100] "GET /~avats/img/Backdrop.jpg HTTP/1.1" 200 40560 "http://clabsql.clamv.jacobs-university.de/~avats/common_style.css" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36"
+
+10.222.130.225 - - [10/Nov/2020:19:26:42 +0100] "GET /~avats/common_style.css HTTP/1.1" 200 3686 "http://clabsql.clamv.jacobs-university.de/~avats/admin_login.php?status=sign_in_required" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36"
+
+10.222.130.225 - - [10/Nov/2020:19:30:30 +0100] "GET /~avats/video_streaming.php HTTP/1.1" 200 3483 "http://clabsql.clamv.jacobs-university.de/~avats/general_account.php" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36"
+
+10.222.131.86 - - [13/Nov/2020:12:07:09 +0100] "GET /~avats/img/Backdrop.jpg HTTP/1.1" 200 40560 "http://clabsql.clamv.jacobs-university.de/~avats/common_style.css" "Mozilla/5.0 (Macintosh; Intel Mac OS X 11_0_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.193 Safari/537.36"
+
+10.81.159.225 - - [11/Nov/2020:09:20:34 +0100] "GET /~avats/video_streaming.php HTTP/1.1" 200 3483 "http://clabsql.clamv.jacobs-university.de/~avats/general_account.php" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15"
+
+10.222.130.225 - - [10/Nov/2020:19:26:42 +0100] "GET /~avats/img/Backdrop.jpg HTTP/1.1" 200 40560 "http://clabsql.clamv.jacobs-university.de/~avats/common_style.css" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36"
+
+10.81.137.207 - - [11/Nov/2020:01:09:20 +0100] "GET /~avats/search_pages.php HTTP/1.1" 200 2330 "http://clabsql.clamv.jacobs-university.de/~avats/show_general_accounts.php" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36"
+
+10.81.159.225 - - [11/Nov/2020:09:21:58 +0100] "GET /~avats/VPN.php HTTP/1.1" 200 25717 "http://clabsql.clamv.jacobs-university.de/~avats/general_account.php" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15"
+
+10.81.159.225 - - [11/Nov/2020:09:24:49 +0100] "GET /~avats/success.php HTTP/1.1" 404 1227 "http://clabsql.clamv.jacobs-university.de/~avats/related_account.php" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15"
+
+[Wed Nov 11 09:22:15.564401 2020] [php7:error] [pid 13894] [client 10.81.159.225:51354] script '/people/home/avats/public_html/success.php' not found or unable to stat, referer: http://clabsql.clamv.jacobs-university.de/~avats/related_account.php
+
+10.81.137.207 - - [11/Nov/2020:01:10:22 +0100] "POST /~avats/show_general_accounts.php HTTP/1.1" 200 2261 "http://clabsql.clamv.jacobs-university.de/~avats/show_general_accounts.php" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36"
+
+[Wed Nov 11 09:22:57.109305 2020] [php7:notice] [pid 25645] [client 10.81.159.225:51359] PHP Notice:  Undefined index: website in /people/home/avats/public_html/related_account.php on line 9, referer: http://clabsql.clamv.jacobs-university.de/~avats/related_account.php
+
+10.81.159.225 - - [12/Nov/2020:22:13:58 +0100] "GET /~avats/search_pages.php HTTP/1.1" 200 2360 "http://clabsql.clamv.jacobs-university.de/~avats/view_account_details.php" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15"
+
+10.222.130.225 - - [10/Nov/2020:19:27:04 +0100] "GET /~avats/admin_login.php?status=sign_in_required HTTP/1.1" 200 2262 "http://clabsql.clamv.jacobs-university.de/~avats/admin_login.php?status=sign_in_required" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36"
+
+[Wed Nov 11 01:09:33.580002 2020] [php7:notice] [pid 25643] [client 10.81.137.207:44936] PHP Notice:  Undefined index: updates_and_messages in /people/home/avats/public_html/view_account_details.php on line 32, referer: http://clabsql.clamv.jacobs-university.de/~avats/view_account_details.php
+
+10.81.159.225 - - [12/Nov/2020:22:15:25 +0100] "GET /~avats/view_account_details.php HTTP/1.1" 200 2499 "http://clabsql.clamv.jacobs-university.de/~avats/search_pages.php" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15"
+
+10.81.159.225 - - [11/Nov/2020:09:19:41 +0100] "GET /~avats/registration.php HTTP/1.1" 200 3743 "http://clabsql.clamv.jacobs-university.de/~avats/maintenance.php" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15"
+
+10.81.159.225 - - [12/Nov/2020:22:16:42 +0100] "GET /~avats/search_pages.php HTTP/1.1" 200 2360 "http://clabsql.clamv.jacobs-university.de/~avats/Info_for_sub_type.php" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15"
+
+[Mon Nov 09 15:32:15.374357 2020] [php7:error] [pid 28329] [client 10.81.139.23:50202] script '/people/home/avats/public_html/admin_login.php' not found or unable to stat, referer: http://clabsql.clamv.jacobs-university.de/~avats/
+
+10.81.159.225 - - [13/Nov/2020:14:12:37 +0100] "GET /~avats/common_style.css HTTP/1.1" 200 3686 "http://clabsql.clamv.jacobs-university.de/~avats/Info_for_sub_type.php" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Safari/605.1.15"
+
+10.81.137.207 - - [11/Nov/2020:01:06:49 +0100] "GET /~avats/maintenance.php HTTP/1.1" 302 2425 "http://clabsql.clamv.jacobs-university.de/~avats/admin_login.php" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36"
+
+10.81.159.225 - - [11/Nov/2020:09:22:15 +0100] "POST /~avats/related_account.php HTTP/1.1" 302 1916 "http://clabsql.clamv.jacobs-university.de/~avats/related_account.php" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15"
+
+10.81.137.207 - - [11/Nov/2020:01:09:33 +0100] "POST /~avats/view_account_details.php HTTP/1.1" 200 2702 "http://clabsql.clamv.jacobs-university.de/~avats/view_account_details.php" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36"
+
+[Wed Nov 11 01:09:33.580050 2020] [php7:notice] [pid 25643] [client 10.81.137.207:44936] PHP Notice:  Undefined index: terms_cond_last_updates in /people/home/avats/public_html/view_account_details.php on line 41, referer: http://clabsql.clamv.jacobs-university.de/~avats/view_account_details.php
+
+10.81.137.207 - - [11/Nov/2020:01:06:24 +0100] "GET /~avats/img/logo.png HTTP/1.1" 200 278589 "http://clabsql.clamv.jacobs-university.de/~avats/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36"
+
+10.81.159.225 - - [12/Nov/2020:22:15:40 +0100] "GET /~avats/search_pages.php HTTP/1.1" 200 2360 "http://clabsql.clamv.jacobs-university.de/~avats/show_general_accounts.php" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15"
+
+10.81.159.225 - - [11/Nov/2020:09:22:19 +0100] "POST /~avats/related_account.php HTTP/1.1" 302 1916 "http://clabsql.clamv.jacobs-university.de/~avats/related_account.php" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15"
+
+10.81.159.225 - - [12/Nov/2020:22:16:39 +0100] "POST /~avats/Info_for_sub_type.php HTTP/1.1" 200 1136 "http://clabsql.clamv.jacobs-university.de/~avats/Info_for_sub_type.php" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15"
+
+10.81.137.207 - - [11/Nov/2020:01:06:24 +0100] "GET /~avats/ HTTP/1.1" 200 2812 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36"
+
+10.81.159.225 - - [13/Nov/2020:14:12:57 +0100] "GET /~avats/index.php HTTP/1.1" 200 2812 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Safari/605.1.15"
+
+10.81.159.225 - - [11/Nov/2020:09:22:01 +0100] "GET /~avats/related_account.php HTTP/1.1" 200 6604 "http://clabsql.clamv.jacobs-university.de/~avats/maintenance.php" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15"
+
+10.81.137.207 - - [11/Nov/2020:01:08:47 +0100] "GET /~avats/show_general_accounts.php HTTP/1.1" 200 2087 "http://clabsql.clamv.jacobs-university.de/~avats/view_account_details.php" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36"
+
+10.81.159.225 - - [11/Nov/2020:09:25:54 +0100] "GET /~avats/success.php HTTP/1.1" 404 1227 "http://clabsql.clamv.jacobs-university.de/~avats/related_account.php" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15"
+
+10.81.159.225 - - [11/Nov/2020:09:16:53 +0100] "GET /~avats/admin_login.php?status=sign_in_required HTTP/1.1" 200 2262 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15"
+
+10.81.159.225 - - [11/Nov/2020:09:27:08 +0100] "GET /~avats/index.php HTTP/1.1" 200 2812 "http://clabsql.clamv.jacobs-university.de/~avats/maintenance.php" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15"
+
+10.81.159.225 - - [11/Nov/2020:09:16:53 +0100] "GET /~avats/maintenance.php HTTP/1.1" 302 2425 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15"
+
+10.81.159.225 - - [11/Nov/2020:09:19:39 +0100] "GET /~avats/maintenance.php HTTP/1.1" 200 2395 "http://clabsql.clamv.jacobs-university.de/~avats/admin_login.php?status=sign_in_required" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15"
+
+10.222.130.225 - - [10/Nov/2020:19:27:01 +0100] "GET /~avats/admin_login.php?status=sign_in_required HTTP/1.1" 200 2262 "http://clabsql.clamv.jacobs-university.de/~avats/admin_login.php?status=sign_in_required" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36"
+
+10.81.137.207 - - [11/Nov/2020:01:13:39 +0100] "GET /~avats/admin_login.php?status=sign_in_required HTTP/1.1" 200 2262 "http://clabsql.clamv.jacobs-university.de/~avats/index.php" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36"
+
+10.81.159.225 - - [10/Nov/2020:16:03:13 +0100] "GET /~avats/common_style.css HTTP/1.1" 200 3686 "http://clabsql.clamv.jacobs-university.de/~avats/admin_login.php?status=sign_in_required" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15"
+
+10.81.137.207 - - [11/Nov/2020:01:07:54 +0100] "GET /~avats/maintenance.php HTTP/1.1" 200 2395 "http://clabsql.clamv.jacobs-university.de/~avats/admin_login.php" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36"
+
+10.81.137.207 - - [11/Nov/2020:01:08:06 +0100] "GET /~avats/search_pages.php HTTP/1.1" 200 2330 "http://clabsql.clamv.jacobs-university.de/~avats/maintenance.php" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36"
+
+10.81.159.225 - - [10/Nov/2020:16:03:13 +0100] "GET /~avats/img/Backdrop.jpg HTTP/1.1" 200 40560 "http://clabsql.clamv.jacobs-university.de/~avats/admin_login.php?status=sign_in_required" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15"
+
+10.222.130.225 - - [10/Nov/2020:19:26:42 +0100] "GET /~avats/admin_login.php?status=sign_in_required HTTP/1.1" 200 2262 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36"
+
+10.222.131.86 - - [13/Nov/2020:12:07:09 +0100] "GET /~avats/img/logo.png HTTP/1.1" 200 278589 "http://clabsql.clamv.jacobs-university.de/~avats/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 11_0_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.193 Safari/537.36"
+
+10.81.159.225 - - [11/Nov/2020:09:24:49 +0100] "POST /~avats/related_account.php HTTP/1.1" 302 1916 "http://clabsql.clamv.jacobs-university.de/~avats/related_account.php" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15"
+
+10.81.159.225 - - [12/Nov/2020:22:14:58 +0100] "GET /~avats/show_general_accounts.php HTTP/1.1" 200 2117 "http://clabsql.clamv.jacobs-university.de/~avats/search_pages.php" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15"
+
+10.81.137.207 - - [11/Nov/2020:01:13:39 +0100] "GET /~avats/registration.php HTTP/1.1" 302 3773 "http://clabsql.clamv.jacobs-university.de/~avats/index.php" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36"
+
+10.222.130.225 - - [10/Nov/2020:19:30:47 +0100] "GET /~avats/maintenance.php HTTP/1.1" 302 2425 "http://clabsql.clamv.jacobs-university.de/~avats/index.php" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36"
+
+10.81.159.225 - - [11/Nov/2020:09:22:10 +0100] "POST /~avats/related_account.php HTTP/1.1" 302 1916 "http://clabsql.clamv.jacobs-university.de/~avats/related_account.php" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15"
+
+10.81.159.225 - - [12/Nov/2020:22:15:15 +0100] "POST /~avats/show_general_accounts.php HTTP/1.1" 200 2285 "http://clabsql.clamv.jacobs-university.de/~avats/show_general_accounts.php" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15"
+
+10.81.137.207 - - [11/Nov/2020:01:07:23 +0100] "GET /~avats/index.php HTTP/1.1" 200 2812 "http://clabsql.clamv.jacobs-university.de/~avats/admin_login.php?status=sign_in_required" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36"
+
+10.81.137.207 - - [11/Nov/2020:01:08:23 +0100] "GET /~avats/search_pages.php HTTP/1.1" 200 2330 "http://clabsql.clamv.jacobs-university.de/~avats/maintenance.php" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36"
+
+10.81.159.225 - - [13/Nov/2020:14:12:45 +0100] "GET /~avats/admin_login.php?status=sign_in_required HTTP/1.1" 200 2262 "http://clabsql.clamv.jacobs-university.de/~avats/index.php" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Safari/605.1.15"
+
+10.81.159.225 - - [13/Nov/2020:14:12:37 +0100] "GET /~avats/img/logo.png HTTP/1.1" 200 278589 "http://clabsql.clamv.jacobs-university.de/~avats/Info_for_sub_type.php" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Safari/605.1.15"
+
+10.81.137.207 - - [11/Nov/2020:01:09:21 +0100] "GET /~avats/view_account_details.php HTTP/1.1" 200 2469 "http://clabsql.clamv.jacobs-university.de/~avats/search_pages.php" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36"
+
+10.81.137.207 - - [11/Nov/2020:01:10:26 +0100] "GET /~avats/view_account_details.php HTTP/1.1" 200 2469 "http://clabsql.clamv.jacobs-university.de/~avats/search_pages.php" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36"
+
+10.81.159.225 - - [11/Nov/2020:09:23:02 +0100] "POST /~avats/related_account.php HTTP/1.1" 302 1916 "http://clabsql.clamv.jacobs-university.de/~avats/related_account.php" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15"
+
+10.222.130.225 - - [10/Nov/2020:19:26:42 +0100] "GET /~avats/maintenance.php HTTP/1.1" 302 2425 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36"
+
+10.81.159.225 - - [13/Nov/2020:14:12:37 +0100] "GET /~avats/img/Backdrop.jpg HTTP/1.1" 200 40560 "http://clabsql.clamv.jacobs-university.de/~avats/Info_for_sub_type.php" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Safari/605.1.15"
+
+[Wed Nov 11 01:09:33.580058 2020] [php7:notice] [pid 25643] [client 10.81.137.207:44936] PHP Notice:  Undefined index: link_relevant_page in /people/home/avats/public_html/view_account_details.php on line 42, referer: http://clabsql.clamv.jacobs-university.de/~avats/view_account_details.php
+
+[Wed Nov 11 09:25:54.677974 2020] [php7:error] [pid 20161] [client 10.81.159.225:51417] script '/people/home/avats/public_html/success.php' not found or unable to stat, referer: http://clabsql.clamv.jacobs-university.de/~avats/related_account.php
+
+[Mon Nov 09 15:31:58.972080 2020] [php7:error] [pid 28329] [client 10.81.139.23:50202] script '/people/home/avats/public_html/search_pages.php' not found or unable to stat, referer: http://clabsql.clamv.jacobs-university.de/~avats/
+
+10.81.159.225 - - [12/Nov/2020:22:15:11 +0100] "POST /~avats/show_general_accounts.php HTTP/1.1" 200 2295 "http://clabsql.clamv.jacobs-university.de/~avats/show_general_accounts.php" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15"
+
+10.81.159.225 - - [11/Nov/2020:09:21:57 +0100] "GET /~avats/software_suites.php HTTP/1.1" 200 3193 "http://clabsql.clamv.jacobs-university.de/~avats/general_account.php" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15"
+
+[Mon Nov 09 17:22:21.843968 2020] [php7:error] [pid 1183] [client 10.222.130.45:50510] script '/people/home/avats/public_html/info_for_sub_type.php' not found or unable to stat, referer: http://clabsql.clamv.jacobs-university.de/~avats/search_pages.php
+
+10.222.130.225 - - [10/Nov/2020:19:30:54 +0100] "GET /~avats/search_pages.php HTTP/1.1" 200 2360 "http://clabsql.clamv.jacobs-university.de/~avats/admin_login.php?status=sign_in_required" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36"
+
+10.81.137.207 - - [11/Nov/2020:01:10:37 +0100] "POST /~avats/view_account_details.php HTTP/1.1" 200 2702 "http://clabsql.clamv.jacobs-university.de/~avats/view_account_details.php" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36"
+
+10.81.159.225 - - [11/Nov/2020:09:23:07 +0100] "GET /~avats/related_account.php HTTP/1.1" 200 6604 "http://clabsql.clamv.jacobs-university.de/~avats/maintenance.php" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15"
+
+10.81.159.225 - - [11/Nov/2020:09:21:54 +0100] "GET /~avats/music_streaming.php HTTP/1.1" 200 2951 "http://clabsql.clamv.jacobs-university.de/~avats/general_account.php" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15"
+
+10.81.159.225 - - [11/Nov/2020:09:23:04 +0100] "GET /~avats/maintenance.php HTTP/1.1" 200 2395 "http://clabsql.clamv.jacobs-university.de/~avats/related_account.php" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15"
+
+10.81.159.225 - - [11/Nov/2020:09:21:52 +0100] "GET /~avats/maintenance.php HTTP/1.1" 200 2395 "http://clabsql.clamv.jacobs-university.de/~avats/video_streaming.php" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15"
+
+10.81.137.207 - - [11/Nov/2020:01:09:13 +0100] "POST /~avats/show_general_accounts.php HTTP/1.1" 200 2258 "http://clabsql.clamv.jacobs-university.de/~avats/show_general_accounts.php" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36"
+
+10.81.137.207 - - [11/Nov/2020:01:10:24 +0100] "GET /~avats/search_pages.php HTTP/1.1" 200 2330 "http://clabsql.clamv.jacobs-university.de/~avats/show_general_accounts.php" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36"
+
+10.81.137.207 - - [11/Nov/2020:01:10:50 +0100] "GET /~avats/maintenance.php HTTP/1.1" 302 2425 "http://clabsql.clamv.jacobs-university.de/~avats/index.php" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36"
+
+10.81.159.225 - - [12/Nov/2020:22:16:31 +0100] "GET /~avats/Info_for_sub_type.php HTTP/1.1" 200 2852 "http://clabsql.clamv.jacobs-university.de/~avats/search_pages.php" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15"
+
+10.81.159.225 - - [12/Nov/2020:22:14:56 +0100] "GET /~avats/search_pages.php HTTP/1.1" 200 2360 "http://clabsql.clamv.jacobs-university.de/~avats/show_general_accounts.php" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15"
+
+10.81.137.207 - - [11/Nov/2020:01:13:01 +0100] "GET /~avats/search_pages.php HTTP/1.1" 200 2360 "http://clabsql.clamv.jacobs-university.de/~avats/admin_login.php?status=sign_in_required" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36"
+
+10.81.159.225 - - [10/Nov/2020:16:03:24 +0100] "GET /~avats/maintenance.php HTTP/1.1" 200 2395 "http://clabsql.clamv.jacobs-university.de/~avats/admin_login.php?status=sign_in_required" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15"
+
+[Wed Nov 11 01:10:37.299252 2020] [php7:notice] [pid 20161] [client 10.81.137.207:44942] PHP Notice:  Undefined index: updates_and_messages in /people/home/avats/public_html/view_account_details.php on line 32, referer: http://clabsql.clamv.jacobs-university.de/~avats/view_account_details.php
+
+10.81.137.207 - - [11/Nov/2020:01:13:14 +0100] "GET /~avats/index.php HTTP/1.1" 200 2812 "http://clabsql.clamv.jacobs-university.de/~avats/admin_login.php?status=sign_in_required" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36"
+
+10.81.159.225 - - [13/Nov/2020:14:12:46 +0100] "GET /~avats/search_pages.php HTTP/1.1" 200 2360 "http://clabsql.clamv.jacobs-university.de/~avats/admin_login.php?status=sign_in_required" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Safari/605.1.15"
+
+10.222.130.225 - - [10/Nov/2020:19:30:47 +0100] "GET /~avats/admin_login.php?status=sign_in_required HTTP/1.1" 200 2262 "http://clabsql.clamv.jacobs-university.de/~avats/index.php" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36"
+
+10.81.137.207 - - [11/Nov/2020:01:07:03 +0100] "GET /~avats/admin_login.php?status=sign_in_required HTTP/1.1" 200 2262 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36"
+
+10.222.130.225 - - [10/Nov/2020:19:29:08 +0100] "GET /~avats/maintenance.php HTTP/1.1" 200 2395 "http://clabsql.clamv.jacobs-university.de/~avats/admin_login.php?status=sign_in_required" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36"
+
+10.81.159.225 - - [10/Nov/2020:16:03:13 +0100] "GET /~avats/maintenance.php HTTP/1.1" 302 2425 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15"
+
+10.81.159.225 - - [11/Nov/2020:09:23:02 +0100] "GET /~avats/success.php HTTP/1.1" 404 1227 "http://clabsql.clamv.jacobs-university.de/~avats/related_account.php" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15"
+
+10.222.130.225 - - [10/Nov/2020:19:27:02 +0100] "GET /~avats/maintenance.php HTTP/1.1" 302 2425 "http://clabsql.clamv.jacobs-university.de/~avats/admin_login.php?status=sign_in_required" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36"
+
+10.81.159.225 - - [10/Nov/2020:16:03:13 +0100] "GET /~avats/img/logo.png HTTP/1.1" 200 278589 "http://clabsql.clamv.jacobs-university.de/~avats/admin_login.php?status=sign_in_required" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15"
+
+10.222.130.225 - - [10/Nov/2020:19:30:45 +0100] "GET /~avats/index.php HTTP/1.1" 200 2812 "http://clabsql.clamv.jacobs-university.de/~avats/maintenance.php" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36"
+
+10.81.137.207 - - [11/Nov/2020:01:10:45 +0100] "GET /~avats/view_account_details.php HTTP/1.1" 200 2469 "http://clabsql.clamv.jacobs-university.de/~avats/search_pages.php" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36"
+
+[Wed Nov 11 09:21:11.132807 2020] [php7:notice] [pid 10165] [client 10.81.159.225:51350] PHP Notice:  Undefined index: $host_web."/latest_release" in /people/home/avats/public_html/video_streaming.php on line 56, referer: http://clabsql.clamv.jacobs-university.de/~avats/video_streaming.php
+
+10.81.137.207 - - [11/Nov/2020:01:10:50 +0100] "GET /~avats/admin_login.php?status=sign_in_required HTTP/1.1" 200 2262 "http://clabsql.clamv.jacobs-university.de/~avats/index.php" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36"
+
+10.81.159.225 - - [10/Nov/2020:16:03:24 +0100] "POST /~avats/admin_login.php?status=sign_in_required HTTP/1.1" 302 2182 "http://clabsql.clamv.jacobs-university.de/~avats/admin_login.php?status=sign_in_required" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15"
+
+10.222.131.65 - - [13/Nov/2020:12:18:58 +0100] "GET /~avats/layout_logged_in.html HTTP/1.1" 404 1006 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.193 Safari/537.36"
+
+10.81.159.225 - - [12/Nov/2020:22:15:22 +0100] "POST /~avats/show_general_accounts.php HTTP/1.1" 200 2003 "http://clabsql.clamv.jacobs-university.de/~avats/show_general_accounts.php" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15"
+
+[Wed Nov 11 09:24:49.745780 2020] [php7:error] [pid 25643] [client 10.81.159.225:51390] script '/people/home/avats/public_html/success.php' not found or unable to stat, referer: http://clabsql.clamv.jacobs-university.de/~avats/related_account.php
+
+10.81.137.207 - - [11/Nov/2020:01:08:45 +0100] "POST /~avats/view_account_details.php HTTP/1.1" 200 2096 "http://clabsql.clamv.jacobs-university.de/~avats/view_account_details.php" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36"
+
+[Wed Nov 11 09:21:11.132719 2020] [php7:notice] [pid 10165] [client 10.81.159.225:51350] PHP Notice:  Undefined index: $host_web."/upcoming" in /people/home/avats/public_html/video_streaming.php on line 55, referer: http://clabsql.clamv.jacobs-university.de/~avats/video_streaming.php
+
+10.222.130.225 - - [10/Nov/2020:19:27:01 +0100] "GET /~avats/maintenance.php HTTP/1.1" 302 2425 "http://clabsql.clamv.jacobs-university.de/~avats/admin_login.php?status=sign_in_required" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36"
+
+10.81.159.225 - - [12/Nov/2020:22:12:29 +0100] "GET /~avats/search_pages.php HTTP/1.1" 200 2360 "http://clabsql.clamv.jacobs-university.de/~avats/admin_login.php?status=sign_in_required" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15"
+
+10.81.159.225 - - [13/Nov/2020:14:12:39 +0100] "GET /~avats/index.php HTTP/1.1" 200 2812 "http://clabsql.clamv.jacobs-university.de/~avats/Info_for_sub_type.php" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Safari/605.1.15"
+
+10.81.137.207 - - [11/Nov/2020:01:06:24 +0100] "GET /~avats/common_style.css HTTP/1.1" 200 3686 "http://clabsql.clamv.jacobs-university.de/~avats/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36"
+
+10.222.131.86 - - [13/Nov/2020:12:07:08 +0100] "GET /~avats HTTP/1.1" 301 257 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 11_0_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.193 Safari/537.36"
+
+[Wed Nov 11 09:22:10.359708 2020] [php7:error] [pid 13894] [client 10.81.159.225:51354] script '/people/home/avats/public_html/success.php' not found or unable to stat, referer: http://clabsql.clamv.jacobs-university.de/~avats/related_account.php
+
+10.222.130.225 - - [10/Nov/2020:19:30:53 +0100] "GET /~avats/maintenance.php HTTP/1.1" 302 2425 "http://clabsql.clamv.jacobs-university.de/~avats/index.php" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36"
+
+10.81.159.225 - - [11/Nov/2020:09:22:39 +0100] "GET /~avats/related_account.php HTTP/1.1" 200 6604 "http://clabsql.clamv.jacobs-university.de/~avats/maintenance.php" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15"
+
+[Wed Nov 11 09:23:02.754058 2020] [php7:notice] [pid 25645] [client 10.81.159.225:51359] PHP Notice:  Undefined index: website in /people/home/avats/public_html/related_account.php on line 9, referer: http://clabsql.clamv.jacobs-university.de/~avats/related_account.php
+
+10.81.159.225 - - [11/Nov/2020:09:22:10 +0100] "GET /~avats/success.php HTTP/1.1" 404 1227 "http://clabsql.clamv.jacobs-university.de/~avats/related_account.php" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15"
+
+10.222.130.225 - - [10/Nov/2020:19:26:56 +0100] "GET /~avats/maintenance.php HTTP/1.1" 302 2425 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36"
+
+10.81.159.225 - - [11/Nov/2020:09:21:56 +0100] "GET /~avats/magazine.php HTTP/1.1" 200 3197 "http://clabsql.clamv.jacobs-university.de/~avats/general_account.php" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15"
+
+10.81.159.225 - - [12/Nov/2020:22:14:41 +0100] "GET /~avats/view_account_details.php HTTP/1.1" 200 2499 "http://clabsql.clamv.jacobs-university.de/~avats/search_pages.php" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15"
+
+[Mon Nov 09 15:31:55.309139 2020] [php7:error] [pid 28329] [client 10.81.139.23:50202] script '/people/home/avats/public_html/admin_login.php' not found or unable to stat, referer: http://clabsql.clamv.jacobs-university.de/~avats/
+
+10.81.159.225 - - [12/Nov/2020:22:15:20 +0100] "GET /~avats/search_pages.php HTTP/1.1" 200 2360 "http://clabsql.clamv.jacobs-university.de/~avats/show_general_accounts.php" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15"
+
+10.222.130.225 - - [10/Nov/2020:19:26:56 +0100] "GET /~avats/admin_login.php?status=sign_in_required HTTP/1.1" 200 2262 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36"
+
+10.81.137.207 - - [11/Nov/2020:01:10:10 +0100] "GET /~avats/show_general_accounts.php HTTP/1.1" 200 2087 "http://clabsql.clamv.jacobs-university.de/~avats/view_account_details.php" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36"
+
+10.81.159.225 - - [12/Nov/2020:22:15:34 +0100] "POST /~avats/view_account_details.php HTTP/1.1" 200 2126 "http://clabsql.clamv.jacobs-university.de/~avats/view_account_details.php" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15"
+
+10.81.159.225 - - [11/Nov/2020:09:16:53 +0100] "GET /~avats/img/Backdrop.jpg HTTP/1.1" 200 40560 "http://clabsql.clamv.jacobs-university.de/~avats/admin_login.php?status=sign_in_required" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15"
+
+[Wed Nov 11 09:22:19.391199 2020] [php7:error] [pid 13894] [client 10.81.159.225:51354] script '/people/home/avats/public_html/success.php' not found or unable to stat, referer: http://clabsql.clamv.jacobs-university.de/~avats/related_account.php
+
+10.222.130.225 - - [10/Nov/2020:19:30:28 +0100] "GET /~avats/general_account.php HTTP/1.1" 200 2707 "http://clabsql.clamv.jacobs-university.de/~avats/maintenance.php" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36"
+
+[Mon Nov 09 17:22:27.798711 2020] [php7:error] [pid 1183] [client 10.222.130.45:50510] script '/people/home/avats/public_html/info_for_sub_type.php' not found or unable to stat, referer: http://clabsql.clamv.jacobs-university.de/~avats/search_pages.php
+
+10.81.159.225 - - [11/Nov/2020:09:21:53 +0100] "GET /~avats/general_account.php HTTP/1.1" 200 2707 "http://clabsql.clamv.jacobs-university.de/~avats/maintenance.php" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15"
+
+10.222.130.225 - - [10/Nov/2020:19:26:42 +0100] "GET /~avats/img/logo.png HTTP/1.1" 200 278589 "http://clabsql.clamv.jacobs-university.de/~avats/admin_login.php?status=sign_in_required" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36"
+
+10.81.159.225 - - [11/Nov/2020:09:19:39 +0100] "POST /~avats/admin_login.php?status=sign_in_required HTTP/1.1" 302 2182 "http://clabsql.clamv.jacobs-university.de/~avats/admin_login.php?status=sign_in_required" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15"
+
+[Wed Nov 11 01:09:33.580042 2020] [php7:notice] [pid 25643] [client 10.81.137.207:44936] PHP Notice:  Undefined index: deletion_link in /people/home/avats/public_html/view_account_details.php on line 33, referer: http://clabsql.clamv.jacobs-university.de/~avats/view_account_details.php
+
+10.81.159.225 - - [11/Nov/2020:09:16:53 +0100] "GET /~avats/img/logo.png HTTP/1.1" 200 278589 "http://clabsql.clamv.jacobs-university.de/~avats/admin_login.php?status=sign_in_required" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15"
+
+10.81.159.225 - - [12/Nov/2020:22:12:20 +0100] "GET /~avats/admin_login.php?status=sign_in_required HTTP/1.1" 200 2262 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15"
+
+10.81.159.225 - - [11/Nov/2020:09:16:53 +0100] "GET /~avats/common_style.css HTTP/1.1" 304 - "http://clabsql.clamv.jacobs-university.de/~avats/maintenance.php" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15"
+
+10.222.131.65 - - [13/Nov/2020:12:18:34 +0100] "GET /~avats/layout_logged_in.html HTTP/1.1" 404 1006 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.193 Safari/537.36"
+
+10.81.137.207 - - [11/Nov/2020:01:08:57 +0100] "POST /~avats/show_general_accounts.php HTTP/1.1" 200 5268 "http://clabsql.clamv.jacobs-university.de/~avats/show_general_accounts.php" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36"
+
+[Wed Nov 11 01:10:37.299308 2020] [php7:notice] [pid 20161] [client 10.81.137.207:44942] PHP Notice:  Undefined index: link_relevant_page in /people/home/avats/public_html/view_account_details.php on line 42, referer: http://clabsql.clamv.jacobs-university.de/~avats/view_account_details.php
+
+10.222.131.86 - - [13/Nov/2020:12:07:08 +0100] "GET /~avats/ HTTP/1.1" 200 2812 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 11_0_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.193 Safari/537.36"
+
+10.222.130.225 - - [10/Nov/2020:19:30:43 +0100] "GET /~avats/maintenance.php HTTP/1.1" 200 2395 "http://clabsql.clamv.jacobs-university.de/~avats/video_streaming.php" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36"
+
+10.81.159.225 - - [12/Nov/2020:22:15:08 +0100] "POST /~avats/show_general_accounts.php HTTP/1.1" 200 2960 "http://clabsql.clamv.jacobs-university.de/~avats/show_general_accounts.php" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15"
+
+10.81.159.225 - - [11/Nov/2020:09:22:57 +0100] "POST /~avats/related_account.php HTTP/1.1" 302 1916 "http://clabsql.clamv.jacobs-university.de/~avats/related_account.php" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15"
+
+10.222.130.225 - - [10/Nov/2020:19:29:08 +0100] "POST /~avats/admin_login.php?status=sign_in_required HTTP/1.1" 302 2182 "http://clabsql.clamv.jacobs-university.de/~avats/admin_login.php?status=sign_in_required" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36"
+
+10.81.159.225 - - [12/Nov/2020:22:12:20 +0100] "GET /~avats/maintenance.php HTTP/1.1" 302 2425 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15"
+
+10.81.137.207 - - [11/Nov/2020:01:07:48 +0100] "GET /~avats/admin_login.php HTTP/1.1" 200 2229 "http://clabsql.clamv.jacobs-university.de/~avats/index.php" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36"
+
+10.81.137.207 - - [11/Nov/2020:01:10:47 +0100] "GET /~avats/index.php HTTP/1.1" 200 2812 "http://clabsql.clamv.jacobs-university.de/~avats/view_account_details.php" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36"
+
+10.81.137.207 - - [11/Nov/2020:01:06:31 +0100] "GET /~avats/admin_login.php HTTP/1.1" 200 2229 "http://clabsql.clamv.jacobs-university.de/~avats/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36"
+
+10.222.131.86 - - [13/Nov/2020:12:07:09 +0100] "GET /~avats/common_style.css HTTP/1.1" 200 3686 "http://clabsql.clamv.jacobs-university.de/~avats/" "Mozilla/5.0 (Macintosh; Intel Mac OS X 11_0_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.193 Safari/537.36"
+
+[Wed Nov 11 09:23:02.767163 2020] [php7:error] [pid 25645] [client 10.81.159.225:51359] script '/people/home/avats/public_html/success.php' not found or unable to stat, referer: http://clabsql.clamv.jacobs-university.de/~avats/related_account.php
+
+10.81.137.207 - - [11/Nov/2020:01:07:54 +0100] "POST /~avats/admin_login.php HTTP/1.1" 302 2182 "http://clabsql.clamv.jacobs-university.de/~avats/admin_login.php" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36"
+
+10.81.137.207 - - [11/Nov/2020:01:08:26 +0100] "GET /~avats/view_account_details.php HTTP/1.1" 200 2469 "http://clabsql.clamv.jacobs-university.de/~avats/search_pages.php" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36"
+
+10.81.159.225 - - [11/Nov/2020:09:22:57 +0100] "GET /~avats/success.php HTTP/1.1" 404 1227 "http://clabsql.clamv.jacobs-university.de/~avats/related_account.php" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15"
+
+10.81.159.225 - - [12/Nov/2020:22:12:20 +0100] "GET /~avats/img/Backdrop.jpg HTTP/1.1" 200 40560 "http://clabsql.clamv.jacobs-university.de/~avats/admin_login.php?status=sign_in_required" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15"
+
+10.81.159.225 - - [11/Nov/2020:09:22:15 +0100] "GET /~avats/success.php HTTP/1.1" 404 1227 "http://clabsql.clamv.jacobs-university.de/~avats/related_account.php" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15"
+
+10.81.159.225 - - [12/Nov/2020:22:12:20 +0100] "GET /~avats/img/logo.png HTTP/1.1" 200 278589 "http://clabsql.clamv.jacobs-university.de/~avats/admin_login.php?status=sign_in_required" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15"
+
+10.222.130.225 - - [10/Nov/2020:19:30:45 +0100] "GET /~avats/logout.php HTTP/1.1" 302 - "http://clabsql.clamv.jacobs-university.de/~avats/maintenance.php" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36"
+
+10.222.130.225 - - [10/Nov/2020:19:30:53 +0100] "GET /~avats/admin_login.php?status=sign_in_required HTTP/1.1" 200 2262 "http://clabsql.clamv.jacobs-university.de/~avats/index.php" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36"
+
+10.81.159.225 - - [13/Nov/2020:14:12:37 +0100] "GET /~avats/Info_for_sub_type.php HTTP/1.1" 200 2852 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.1 Safari/605.1.15"
+
+10.81.159.225 - - [11/Nov/2020:09:20:32 +0100] "GET /~avats/general_account.php HTTP/1.1" 200 2707 "http://clabsql.clamv.jacobs-university.de/~avats/maintenance.php" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15"
+
+10.81.159.225 - - [10/Nov/2020:16:03:13 +0100] "GET /~avats/admin_login.php?status=sign_in_required HTTP/1.1" 200 2262 "-" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15"
+
+10.81.159.225 - - [12/Nov/2020:22:14:53 +0100] "GET /~avats/show_general_accounts.php HTTP/1.1" 200 2117 "http://clabsql.clamv.jacobs-university.de/~avats/view_account_details.php" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15"
+
+10.81.159.225 - - [12/Nov/2020:22:12:20 +0100] "GET /~avats/common_style.css HTTP/1.1" 304 - "http://clabsql.clamv.jacobs-university.de/~avats/admin_login.php?status=sign_in_required" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15"
+
+10.81.137.207 - - [11/Nov/2020:01:09:44 +0100] "GET /~avats/view_account_details.php HTTP/1.1" 200 2469 "http://clabsql.clamv.jacobs-university.de/~avats/search_pages.php" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36"
+
+10.81.137.207 - - [11/Nov/2020:01:06:49 +0100] "GET /~avats/admin_login.php?status=sign_in_required HTTP/1.1" 200 2262 "http://clabsql.clamv.jacobs-university.de/~avats/admin_login.php" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36"
+
+[Wed Nov 11 01:10:37.299301 2020] [php7:notice] [pid 20161] [client 10.81.137.207:44942] PHP Notice:  Undefined index: terms_cond_last_updates in /people/home/avats/public_html/view_account_details.php on line 41, referer: http://clabsql.clamv.jacobs-university.de/~avats/view_account_details.php
+
+10.81.159.225 - - [11/Nov/2020:09:21:11 +0100] "POST /~avats/video_streaming.php HTTP/1.1" 200 3514 "http://clabsql.clamv.jacobs-university.de/~avats/video_streaming.php" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15"
+
+10.81.159.225 - - [12/Nov/2020:22:14:48 +0100] "POST /~avats/view_account_details.php HTTP/1.1" 200 2126 "http://clabsql.clamv.jacobs-university.de/~avats/view_account_details.php" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15"
+
+10.222.130.225 - - [10/Nov/2020:19:26:23 +0100] "GET /favicon.ico HTTP/1.1" 200 302 "http://clabsql.clamv.jacobs-university.de/~avats/layout_logged_in.html" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36"
+
+[Wed Nov 11 09:22:57.139646 2020] [php7:error] [pid 25645] [client 10.81.159.225:51359] script '/people/home/avats/public_html/success.php' not found or unable to stat, referer: http://clabsql.clamv.jacobs-university.de/~avats/related_account.php
+
+10.222.130.225 - - [10/Nov/2020:19:27:02 +0100] "GET /~avats/admin_login.php?status=sign_in_required HTTP/1.1" 200 2262 "http://clabsql.clamv.jacobs-university.de/~avats/admin_login.php?status=sign_in_required" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36"
+
+10.222.130.225 - - [10/Nov/2020:19:30:51 +0100] "GET /~avats/index.php HTTP/1.1" 200 2812 "http://clabsql.clamv.jacobs-university.de/~avats/admin_login.php?status=sign_in_required" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/86.0.4240.111 Safari/537.36"
+
+10.81.137.207 - - [11/Nov/2020:01:07:03 +0100] "GET /~avats/general_account.php HTTP/1.1" 302 2737 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36"
+
+10.81.137.207 - - [11/Nov/2020:01:10:47 +0100] "GET /~avats/logout.php HTTP/1.1" 302 - "http://clabsql.clamv.jacobs-university.de/~avats/view_account_details.php" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36"
+
+10.81.137.207 - - [11/Nov/2020:01:10:20 +0100] "POST /~avats/show_general_accounts.php HTTP/1.1" 200 3422 "http://clabsql.clamv.jacobs-university.de/~avats/show_general_accounts.php" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36"
+
+10.81.159.225 - - [12/Nov/2020:22:15:21 +0100] "GET /~avats/show_general_accounts.php HTTP/1.1" 200 2117 "http://clabsql.clamv.jacobs-university.de/~avats/search_pages.php" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15"
+
+10.81.159.225 - - [12/Nov/2020:22:16:35 +0100] "POST /~avats/Info_for_sub_type.php HTTP/1.1" 200 1596 "http://clabsql.clamv.jacobs-university.de/~avats/Info_for_sub_type.php" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15"
+
+10.81.159.225 - - [11/Nov/2020:09:22:19 +0100] "GET /~avats/success.php HTTP/1.1" 404 1227 "http://clabsql.clamv.jacobs-university.de/~avats/related_account.php" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15"
+
+10.81.159.225 - - [12/Nov/2020:22:12:32 +0100] "GET /~avats/view_account_details.php HTTP/1.1" 200 2499 "http://clabsql.clamv.jacobs-university.de/~avats/search_pages.php" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0 Safari/605.1.15"
+
