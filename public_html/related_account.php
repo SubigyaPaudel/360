@@ -1,5 +1,4 @@
-<?php include('./header.php');
-      include("./admin_auth.php");?>
+<?php include('./header.php');?>
     <h4>Page to link account from subs tables to general account</h4>
     <?php
         include('config.php');
@@ -8,7 +7,7 @@
             $email_g = mysqli_real_escape_string($conn, $_POST["email_g"]);
             $website = mysqli_real_escape_string($conn, $_POST["website"]);
             $query = "INSERT INTO related_account(email_s, email_g, website) VALUES ('{$email_s}','{$email_g}', '$website');";
-            if (mysqli_query($conn, $query)){
+            if (mysqli_query($conn, $query)) {
                 header("Location: ./success.php");
             } else {
                 header("Location: ./failure.php");

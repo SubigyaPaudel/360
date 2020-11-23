@@ -1,9 +1,9 @@
 <?php
     require("./header.php");
+    require("./config.php");
 ?>
 <?php
     if(isset($_POST['details'])):
-        require("./config.php");
         $email_g = mysqli_real_escape_string($conn, $_POST['email_g']);
         $website = mysqli_real_escape_string($conn, $_POST['website']);
         $query = "SELECT *
@@ -13,7 +13,7 @@
         $clean_data = mysqli_fetch_assoc($result);
         mysqli_free_result($result);
         ?>
-        <table class = "cushioned">
+        <table>
             <tr>
                 <th>Website</th>
                 <th>Associated email account in this website</th>
@@ -28,7 +28,6 @@
         <?php
         mysqli_close($conn);
     elseif(isset($_POST['search'])):
-        require("./config.php");
         $email = mysqli_real_escape_string($conn, $_POST['email_s']);
         $query = "SELECT G.email, G.website, G.service_description
         FROM general_account G, related_account R
@@ -59,10 +58,39 @@
         mysqli_close($conn);
     else:
     ?>
-        <h3>Please enter your email associated to your 360 account</h3>
+        <!-- <h3></h3> -->
         <form action="<?php $_SERVER['PHP_SELF']?>" method = "POST">
-            <input type="text" name='email_s'>
-            <input type="submit" name='search' value = 'Search'>
+            <label for="email_s"><h3>Please enter your email associated to your 360 account:</h3></label>
+            <input type="text" id="email_s" name='email_s'>
+            <?php 
+                $sqlquery = "SELECT S.email FROM subs_account S WHERE 1 GROUP BY S.email;";
+                $result = mysqli_query($conn, $sqlquery);
+                $rows = mysqli_fetch_all($result, MYSQLI_ASSOC);
+            ?>
+            <script>
+                var my_tags = [<?php $i = 0; $len = count($rows);
+                                    foreach ($rows as $mail_list) {
+                                        if ($i == $len-1) {
+                                            echo(json_encode($mail_list['email']));
+                                        }  
+                                        else {
+                                            echo(json_encode($mail_list['email']) . ",");
+                                        }
+                                        $i++;
+                                    }
+                            ?>];
+                    $("#email_s").autocomplete({
+                        source: function( request, response ) {
+                        var matcher = new RegExp( "^" + $.ui.autocomplete.escapeRegex( request.term ), "i" );
+                        response( $.grep( my_tags, function( item ){
+                            return matcher.test( item );
+                        }) );
+                    }
+                    });
+            </script>
+            <br/>
+            <br/>
+            <input type="submit" name='search' value = 'search'>
         </form>
     <?php
     endif;

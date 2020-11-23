@@ -4,6 +4,9 @@
             360 Subscribee Login
         </title>
         <link rel="stylesheet" href="common_style.css">
+        <script src="//code.jquery.com/jquery-1.12.4.js"></script>
+        <script src="//code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+        <link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/smoothness/jquery-ui.css">
     </head>
     <body>
         <?php
